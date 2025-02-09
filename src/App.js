@@ -1,8 +1,5 @@
-import Home from "./pages/home/Home";
-import Topbar from "./components/topbar/Topbar";
+import Home from "./pages/home/Home.jsx";
 
-function App() {
-  return <Topbar />;
+export default function App() {
+  return <Home />;
 }
-
-export default App;
