@@ -5,7 +5,7 @@ Alanya Social, Facebook'un temel özelliklerini içeren bir sosyal medya platfor
 ## 🎨 Görseller
 
 ```
-![Alanya Social Demo](gif/Zight Recording 2025-02-16 at 04.34.30 PM.gif)
+![Alanya Social Demo](gif/gifRecord.gif)
 ```
 
 ## ✨ Özellikler
